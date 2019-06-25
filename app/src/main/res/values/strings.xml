@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prj_Android_MVP</string>
+
+    <string name="error_name_required">Erro: Nome é Obrigatório</string>
+    <string name="error_password_required">Erro: Senha é Obrigatória</string>
+    <string name="error_invalid_credencial">Erro: Credenciais Inválidas</string>
+
+</resources>
